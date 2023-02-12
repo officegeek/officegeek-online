@@ -9,7 +9,7 @@ blocks:
 - block: hero
   superheading: Velkommen til officegeek
   heading: Styrk dine it kundskaber med "just-in-time" learning
-  subheading: Jeg tilbyder online kurser og webinarer med et klart fokus, eller hvad med online "En til En" undervisning
+  subheading: Jeg tilbyder online kurser og webinarer med et klart fokus, eller hvad med online "En til En" undervisning.
   image: /images/hero.jpg
   video: 
     text: Se video
